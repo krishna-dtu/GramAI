@@ -1,0 +1,10 @@
+Timestamp,Patient_Audio_Text,AI_Analysis
+2026-03-01 05:22:39, इसका बीपी लो है।,"🩺 **Extracted Symptoms:** Low Blood Pressure
+📈 **Extracted Vitals:** Low Blood Pressure
+💡 **Triage Recommendation:** रक्तचाप की जांच करें और डॉक्टर से परामर्श लें | Check blood pressure and consult a doctor."
+2026-03-01 05:27:09, वो कल राज से बहुत तेज बुखार है।,"🩺 **Extracted Symptoms:** High Fever
+📈 **Extracted Vitals:** None
+💡 **Triage Recommendation:** उसे तुरंत डॉक्टर के पास ले जाएं। / Take them to the doctor immediately."
+2026-03-01 05:29:08,Mukesh ko kal raat se kaafi bukhar hai,"🩺 **Extracted Symptoms:** Fever
+📈 **Extracted Vitals:** None
+💡 **Triage Recommendation:** Mukesh ko doctor ke paas le jayein, Take Mukesh to the doctor"
